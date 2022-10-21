@@ -1,0 +1,9 @@
+*Fitur*
+
+*spk* (text) ex : spk anooo
+*cpu* (resource print) ex : cpu
+*fc* (full command) ex : fc nslookup google.com
+*cl* (blast message) 
+ex : 
+cl |test|62xxxxxxx@s.whatsapp.net // for personal
+cl |test|1203xx04xxx@g.us // for group
